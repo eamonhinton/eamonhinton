@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @eamonhinton
-- 👀 I’m interested in all things financial
-- 🌱 I’m currently learning Rust and C++ 
-- 💞️ I’m looking to collaborate on having a good time
 - 📫 Reach me with synchronicities planted in my day to day life
